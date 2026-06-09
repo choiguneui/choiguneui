@@ -23,32 +23,19 @@
 
 ## 🛠️ Tech & Tools
 
-### Design
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-</p>
+**🎨 Design**
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+<a href="#"><img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" /></a>
 
-### Tools & Collaboration
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-</p>
+**💻 Frontend**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter&theme=dark" /></a>
+
+**🤝 Tools & Collaboration**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,notion&theme=dark" /></a>
+<img src="assets/slack.svg" height="48" alt="Slack" />
+
 
 ---
 
@@ -56,12 +43,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=choiguneui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8E2DE2&icon_color=4A00E0" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choiguneui&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8E2DE2" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=choiguneui&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choiguneui&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=choiguneui&theme=tokyonight&hide_border=true&background=00000000&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=choiguneui&hide_border=true&background=0D1117&border=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF" />
 
 </div>
 
@@ -90,8 +77,8 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=choiguneui&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=choiguneui&label=Profile%20Views&color=0D1117&style=for-the-badge" alt="profile views" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer" alt="footer" />
 
 </div>
