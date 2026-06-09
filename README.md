@@ -1,34 +1,23 @@
-<!-- ===== 헤더 배너 ===== -->
+<!-- ===== 헤더 배너 (나중에 직접 만든 이미지로 교체 예정) ===== -->
+<!--
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Geonhee%20Choi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=UI%2FUX%20Designer%20%26%20Frontend%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="header" />
-
-<!-- ===== 타이핑 애니메이션 ===== -->
-<a href="https://github.com/choiguneui">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%EC%B5%9C%EA%B1%B4%EC%9D%98+%F0%9F%91%8B;Designing+experiences%2C+building+interfaces;Bridging+design+and+code+%E2%9C%A8" alt="Typing SVG" />
-</a>
-
+  <img width="100%" src="배너_이미지_URL_여기에" alt="header" />
 </div>
+-->
 
----
+## 🙋‍♀️ About Me
 
-## 🙋‍♂️ About Me
+> **사용자 경험을 설계하고, 그 경험을 코드로 직접 구현하는 디자이너입니다.**
 
-```typescript
-const geonhee = {
-  name: "최건의 (Geonhee Choi)",
-  role: ["UI/UX Designer", "Frontend Developer"],
-  focus: "디자인과 코드를 잇는 사람",
-  platforms: ["Web", "Mobile"],
-  currently: "디자인 시스템과 프론트엔드를 함께 고민하는 중 🎨💻",
-  funFact: "디자인 툴과 코드 에디터를 동시에 켜놓고 작업합니다",
-};
-```
+|  |  |
+|---|---|
+| 🎨 **Main** | UI/UX Designer |
+| 💻 **Also** | Frontend Developer |
+| 🌉 **Strength** | 디자인 의도를 코드까지 그대로 살려내는 것 |
+| 📱 **Platforms** | Web · Mobile |
 
-- 🎨 회사에서 **UI/UX 디자인**과 **프론트엔드 개발**을 함께 담당하고 있어요
-- 📱 **모바일**부터 **웹**까지 다양한 프로젝트를 진행했습니다
-- 🌉 디자이너의 관점과 개발자의 관점을 모두 이해하는 게 강점이에요
-- 🌱 더 나은 사용자 경험을 위해 끊임없이 배우는 중
+- ✏️ 화면 한 장이 아니라 **흐름과 경험 전체**를 설계하는 데 집중합니다
+- 🌉 디자인에서 끝나지 않고 **직접 구현**까지 하기에, 디자인과 개발 사이의 간극을 잘 메워요
 
 ---
 
